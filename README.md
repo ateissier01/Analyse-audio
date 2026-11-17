@@ -1,2 +1,2 @@
 # Analyse-audio
-Un code analysant l'audio de vidéo et isolant les extraits ou certain mot clef sont prononcé
+Ce projet concerne un code en Python analysant l'audio de vidéo et isolant les extraits où certains mots-clés sont prononcés. Ce code peut servir notamment pour faire de la veille technologique. 
